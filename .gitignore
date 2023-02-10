@@ -1,0 +1,5 @@
+# Project exclude paths
+/BooksService/target/
+/BorrowService/target/
+/commons/target/
+/UserService/target/
